@@ -6,7 +6,7 @@
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/czernitko/prometheus-push-client.git"
+      "url": "https://github.com/czernitko/PrometheusPushClient.git"
     },
     "authors":
     [
@@ -18,7 +18,7 @@
       }
     ],
     "license": "MIT",
-    "homepage": "https://github.com/czernitko/prometheus-push-client.git",
+    "homepage": "https://github.com/czernitko/PrometheusPushClient.git",
     "dependencies": {
       "Arduino": ">=1.0.0",
       "Client": ""
