@@ -1,0 +1,28 @@
+{
+    "name": "PrometheusPushClient",
+    "version": "1.0.0",
+    "description": "A client library for pushing metrics to a Prometheus Pushgateway.",
+    "keywords": "prometheus, push, metrics, client",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/czernitko/prometheus-push-client.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Petr Černý",
+        "email": "czernitko@gmail.com",
+        "url": "https://github.com/czernitko",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/czernitko/prometheus-push-client.git",
+    "dependencies": {
+      "Arduino": ">=1.0.0",
+      "Client": ""
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
