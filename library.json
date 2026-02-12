@@ -21,7 +21,7 @@
     "homepage": "https://github.com/czernitko/PrometheusPushClient.git",
     "dependencies": {
       "Arduino": ">=1.0.0",
-      "Client": ""
+      "Client": ">=1.0.0"
     },
     "frameworks": "*",
     "platforms": "*"
