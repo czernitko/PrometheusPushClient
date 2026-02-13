@@ -25,7 +25,7 @@ board = nodemcuv2
 build_flags = 
    -D DEBUG_PROMETHEUS_PUSH_CLIENT_PORT=Serial
 lib_deps = 
-  czernitko/PrometheusPushClient@^1.0.0
+  czernitko/PrometheusPushClient@^1.0.2
 ```
 
 ## Tips
