@@ -1,6 +1,6 @@
 {
     "name": "PrometheusPushClient",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A client library for pushing metrics to a Prometheus Pushgateway.",
     "keywords": "prometheus, push, metrics, client",
     "repository":

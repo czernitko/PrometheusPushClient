@@ -164,9 +164,9 @@ public:
      * @param labels Defaults to empty array.
      * @param type Defaults to Counter.
      */
-    bool addMetric(const char *name, const char *help,
+    bool addMetric(const char *name, const char *help = "",
                    std::array<MetricLabel, MAX_METRIC_LABELS> labels = {},
-                   MetricType type = MetricType::Counter)
+                   MetricType type = MetricType::Gauge)
     {
         if (_count >= MAX_METRICS)
             return false;
